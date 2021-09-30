@@ -1,0 +1,8 @@
+{
+  "name": "nativebasetemplate",
+  "version": "0.0.1",
+  "description": "NativeBase UI React Native Template",
+  "repository": "https://github.com/buildnboostOfficial/NativeBase-Template.git",
+  "author": "Raj Devkar",
+  "license": "MIT"
+}
